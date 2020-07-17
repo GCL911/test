@@ -5,7 +5,11 @@
 
 这是master主分支
 这是fenzhi主分支
+<<<<<<< HEAD
 广告  gggggg
+=======
+广告  mmmmmmmm
+>>>>>>> fenzhi2
 hhh
 嘎嘎嘎
 ffffff,kk
